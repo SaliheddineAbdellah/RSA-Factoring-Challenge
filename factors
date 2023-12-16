@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 factoringrsa.py tests/test00
+cat tests/test00
